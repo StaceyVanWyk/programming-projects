@@ -11,3 +11,4 @@ Each project focuses on core programming concepts such as:
 - Git version control
 
 I am currently building my skills toward a junior software developer role.
+//
