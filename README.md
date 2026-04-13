@@ -1,4 +1,4 @@
-# programming-projects
+# Programming-projects
 
 This repository contains my learning and practice projects in:
 - Python
