@@ -1,4 +1,4 @@
-# Software Engineering Projects
+# programming-projects
 
 This repository contains my learning and practice projects in:
 - Python
